@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+*.env
+
+# VSCode settings
+.vscode/
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Dependency folders
+venv/
+.env/
+chrome_langchain_db/

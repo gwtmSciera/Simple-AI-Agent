@@ -1,0 +1,12 @@
+langchain
+wikipedia
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+pandas
+fastapi
+csv
